@@ -15,5 +15,5 @@ get one(author or fans common information(eg: yyNo, id, UID, data_pid) on link2
 
 Dig YY.com cloud video 'all love for lala( yy: 118819)
 
-  
+  eg:http://video.z.yy.com/getVideoTapeByPid.do?programId=15012x01_314827531_1417090292
   
